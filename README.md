@@ -18,7 +18,7 @@ A flexible REST API for managing a job board system. It includes features for ma
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/job-board-api.git
+git clone https://github.com/nnahgodspower122/job-board-api.git
 cd job-board-api
 ```
 
