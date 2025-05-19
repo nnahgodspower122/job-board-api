@@ -56,6 +56,12 @@ php artisan key:generate
 php artisan migrate
 ```
 
+### **6. Start the Queue Worker**
+The application uses Laravel's queue system to process jobs, such as updating application files (cover letter and resume). Start the queue worker by running:
+```bash
+php artisan queue:work
+```
+
 ### 7. Serve the Application
 Run the following command to start the local development server:
 ```bash
